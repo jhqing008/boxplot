@@ -1,0 +1,1 @@
+var data={{json_data|safe}};
